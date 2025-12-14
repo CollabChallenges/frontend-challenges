@@ -119,6 +119,9 @@ Follows some playful (just open-source! :warning:) challenges of jobs.
 | en   | :uk: [Reach-Industries](https://reachindustries/)                                   | Typescript, React | [Code →](https://github.com/Reach-Industries/Frontend-React-Developer-Test)                                   | -                                                                               |
 | en   | :nigeria: [Worksquare](http://work.tribesquare.co)                                   | React/Vue/Angular, Tailwind CSS | [Code →](https://github.com/Worksquare/worksquare-frontend-task)                                   | -                                                                               |
 | pt   | :brazil: [Anota AI](https://anota.ai)                                   | React/Vue/Angular | [Code →](https://github.com/githubanotaai/teste-front-end)                                   | -                                                                               |
+| en   | :canada: [Coveo](https://www.coveo.com)                                   | Any Language | [Code →](https://github.com/coveo/frontend-coding-challenge/tree/master)                                   | -                                                                               |
+| en   | :us: [Busbud](https://www.busbud.com/en)                                   | Javascript | [Code →](https://github.com/busbud/coding-challenge-frontend-a)                                   | -                                                                               |
+| en   | :us: [Busbud](https://www.busbud.com/en)                                   | Javascript | [Code →](http://github.com/busbud/coding-challenge-frontend-b)                                   | -                                                                               |
 ## License
 
 [MIT](/license) &copy; Felipe Fialho
